@@ -1,2 +1,6 @@
-# omid.github.io
-omid.github.io
+# NLP learner
+
+### Education
+Translation Studies, MA
+
+### Publications
